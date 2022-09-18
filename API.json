@@ -1,8 +1,9 @@
 {
     "name": "FasterFragRuns",
 	"creator": "karsiloy",
-    "latestVersion": "1.0.0",
+    "latestVersion": "1.0.1",
     "changelog": [
-        "First release ever!"
+        "Fixed a typo",
+		"Fixed performance issues"
     ]
 }
